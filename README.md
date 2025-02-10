@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Analysis
 #I developed a Power BI project to analyze and visualize customer churn in a bank.
-## [Click here](https://www.novypro.com/profile_projects/abhishek-kumar-2?Popup=memberProject&Data=1722367408210x145536434324248670) to view the live dashboard.
+
 ![Slide1](https://github.com/user-attachments/assets/8554fcfc-7b10-4b9a-9ebe-7c48bec1c28f)
 ![Slide2](https://github.com/user-attachments/assets/38f93522-921b-4c75-8c7c-bed6b70a87d5)
 ![Slide3](https://github.com/user-attachments/assets/d5606280-1f96-4f17-a788-30eadbae152e)
